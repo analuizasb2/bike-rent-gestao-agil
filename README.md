@@ -6,5 +6,6 @@ A ideia consiste em conectar pessoas interessadas em alugar bicicletas com as pe
 O repositório está organizado da seguinte maneira: na raiz, encontram-se os arquivos e pastas:
 
 - canvas-url.txt: Contém link para mural com artefatos da Lean Inception (processo de ideação para concepção do produto).
-- backlog-bike-rent.pdf: Contém o backlog montado no Jira, com especificações das histórias de usuário, com detalhamento para as histórias planejadas para a primeira sprint.
+- product-backlog.pdf: Contém o backlog emergente do produto montado no Jira, com todas as histórias de usuário iniciais.
+- sprint-backlog.pdf: contém detalhamento para das histórias planejadas para a primeira sprint.
 - wireframes: Contém as imagens referentes aos wireframes das telas iniciais do aplicativo, referentes à entrega da primeira sprint.
